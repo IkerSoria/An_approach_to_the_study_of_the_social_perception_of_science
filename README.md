@@ -7,3 +7,4 @@ This repository contains the slides, information used to create some graphs and 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # References used:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fan, W., Yan, Z. (2010). Factors affecting response rates of the web survey: A systematic review. Computers in human behavior, 26(2), 132-139.
