@@ -13,6 +13,8 @@ Ellard-Gray, A., Jeffrey, N. K., Choubak, M., Crann, S. E. (2015). Finding the h
 
 Fan, W. and Yan, Z. (2010). Factors affecting response rates of the web survey: A systematic review. Computers in human behavior, 26(2), 132-139.
 
+Groves, R. M. (2005). Survey errors and survey costs. John Wiley & Sons.
+
 Holbrook, A. L., Green, M. C., Krosnick, J. A. (2003). Telephone versus face-to-face interviewing of national probability samples with long questionnaires: Comparisons of respondent satisficing and social desirability response bias. Public opinion quarterly, 67(1), 79-125.
 
 Mair, P. (2018). Modern psychometrics with R. Springer International Publishing. Cambridge, MA: Springer.
