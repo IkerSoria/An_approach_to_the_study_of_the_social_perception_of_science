@@ -22,3 +22,5 @@ Mair, P. (2018). Modern psychometrics with R. Springer International Publishing.
 Molinengo, G., Romeo, A., Trombetta, T., Rolle, L., Castelli, L., Loera, B. (2023). Shortened version of TAS using IRT: The 10-item scale for adolescents. Personality and Individual Differences, 205, 112077.
 
 Shield, K. D. and Rehm, J. (2012). Difficulties with telephone‐based surveys on alcohol consumption in high‐income countries: the Canadian example. International journal of methods in psychiatric research, 21(1), 17-28.
+
+Van der Linden, W. J., Hambleton, R. K. (2013). Handbook of modern item response theory. New York: Springer Science & Business Media.
