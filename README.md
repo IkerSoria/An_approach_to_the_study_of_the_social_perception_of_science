@@ -7,6 +7,8 @@ This repository contains the slides, information used to create some graphs and 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # References used:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Baker, F. y Kim, S. (2017). The Basics of Item Response Theory with R. Springer.
+
 Edwards, M. C., Houts, C. R., Cai, L. (2018). A diagnostic procedure to detect departures from local independence in item response theory models. Psychological methods, 23(1), 138.
 
 Ellard-Gray, A., Jeffrey, N. K., Choubak, M., Crann, S. E. (2015). Finding the hidden participant: Solutions for recruiting hidden, hard-to-reach, and vulnerable populations. International journal of qualitative methods, 14(5), 1609406915621420.
