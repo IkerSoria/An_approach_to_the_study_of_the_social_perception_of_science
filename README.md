@@ -19,6 +19,8 @@ Groves, R. M. (2005). Survey errors and survey costs. John Wiley & Sons.
 
 Holbrook, A. L., Green, M. C., Krosnick, J. A. (2003). Telephone versus face-to-face interviewing of national probability samples with long questionnaires: Comparisons of respondent satisficing and social desirability response bias. Public opinion quarterly, 67(1), 79-125.
 
+Luiten, A., Hox, J., & de Leeuw, E. (2020). Survey nonresponse trends and fieldwork effort in the 21st century: Results of an international study across countries and surveys. Journal of Official Statistics, 36(3), 469-487.
+
 Mair, P. (2018). Modern psychometrics with R. Springer International Publishing. Cambridge, MA: Springer.
 
 Molinengo, G., Romeo, A., Trombetta, T., Rolle, L., Castelli, L., Loera, B. (2023). Shortened version of TAS using IRT: The 10-item scale for adolescents. Personality and Individual Differences, 205, 112077.
